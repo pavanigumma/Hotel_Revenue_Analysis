@@ -1,4 +1,5 @@
 🏨 Hotel Revenue Analysis – Power BI Dashboard Project
+
 📌 Project Description
 
 The Hotel Revenue Analysis project is a comprehensive data analytics solution developed using Microsoft Power BI.
@@ -7,7 +8,9 @@ It analyzes hotel booking data to evaluate revenue performance, pricing efficien
 The project helps hotel management make data-driven decisions to improve profitability and operational efficiency.
 
 📚 Project Modules
+
 🔹 Module 1: : Data Modeling and Ingestion for the Hotel Business
+
 ✔ Data Source
 
 Hotel booking dataset (.pbix file)
@@ -41,6 +44,7 @@ Booking Source
 Created star schema model
 
 🔹 Module 2: Revenue Analysis
+
 🎯 Objective
 
 To analyze total revenue performance across different dimensions.
@@ -68,6 +72,7 @@ Determined peak demand months
 Compared revenue contribution by booking sources
 
 🔹 Module 3: ADR & RevPAR Analysis
+
 🎯 Objective
 
 To evaluate pricing effectiveness and room performance.
@@ -75,9 +80,11 @@ To evaluate pricing effectiveness and room performance.
 📊 Metrics Used
 
 ADR (Average Daily Rate)
+
 ADR = Total Room Revenue / Total Rooms Sold
 
 RevPAR (Revenue per Available Room)
+
 RevPAR = Total Revenue / Total Available Rooms
 
 📈 Analysis Performed
@@ -99,6 +106,7 @@ Certain seasons maximize RevPAR
 Pricing strategies vary across branches
 
  Occupancy & Seasonal Trend Analysis
+
 🎯 Objective
 
 To analyze hotel occupancy behavior over time.
@@ -122,6 +130,7 @@ Determined slow-demand months
 Analyzed customer booking behavior
 
  Cancellation Analysis
+
 🎯 Objective
 
 To evaluate impact of cancellations on revenue.
@@ -145,6 +154,7 @@ Early bookings show higher cancellation probability
 Impact of cancellations on revenue loss
 
 🔹 Module 4: Revenue Strategy Insights
+
 🎯 Objective
 
 To provide strategic recommendations.
@@ -170,6 +180,7 @@ Reduce discounts in high ADR segments
 Improve cancellation policy for specific booking channels
 
 🔹 Module 5: Forecasting & Predictive Analysis
+
 🎯 Objective
 
 To predict future booking and revenue trends.
