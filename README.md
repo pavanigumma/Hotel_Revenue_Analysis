@@ -204,10 +204,15 @@ Future demand peaks
 📊 Dashboard Pages
 
 1️⃣ Revenue Overview
+
 2️⃣ ADR & RevPAR Dashboard
+
 3️⃣ Occupancy & Seasonal Trends
+
 4️⃣ Cancellation Analysis
+
 5️⃣ Revenue Strategy Dashboard
+
 6️⃣ Forecasting Dashboard
 
 🛠 Tools & Technologies Used
